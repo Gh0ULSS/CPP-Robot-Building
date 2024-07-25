@@ -1,17 +1,9 @@
-# CSCI251_A1
-C++ Assignment
-
-Student Author: Min Htut Myat
-Student Number: 7058949
-
-Info to prof: I ran my codes on both my personal VM and on capa and it compiled on both successfully 
-
 Linux Specifications: (My personal VM)
 
 Ubuntu 22.04 LTS Jammy
 g++ version: 11.2.0
 
-UOW Capa Specifications:
+Capa Specifications:
 
 18.04.2-Ubuntu SMP
 g++ version: 7.5.0
